@@ -25,7 +25,6 @@ Imported the telecom customer dataset into **Microsoft SQL Server**. Used SQL fo
 
 **Tools:** SQL Server, SQL Server Management Studio (SSMS)
 
-![SQL Data Exploration](images/sql_data_exploration.jpg)
 
 ### 2. Data Cleaning & Transformation
 Used **Power Query** to transform raw data into an analytics-ready format:
@@ -36,7 +35,6 @@ Used **Power Query** to transform raw data into an analytics-ready format:
 - Feature engineering
 - Standardizing categorical variables
 
-![Power Query Transformation](images/power_query_transformation.jpg)
 
 ### 3. Data Modeling
 Designed an optimized data model in Power BI with relationships between tables, following dimensional modeling best practices for performance and scalability.
@@ -64,8 +62,6 @@ Built an interactive Power BI dashboard with executive-level KPIs:
 
 **Visuals used:** KPI cards, clustered & stacked bar charts, donut/pie charts, line charts, matrix tables, interactive slicers, drill-through navigation, dynamic filtering, conditional formatting.
 
-![Churn Analysis Dashboard](images/dashboard_summary.jpg)
-
 ### 5. Advanced Analytics with DAX
 Developed DAX measures and calculated columns for:
 - Customer Churn Rate (%)
@@ -83,8 +79,6 @@ Built a machine learning pipeline to predict customer churn:
 
 **Algorithm:** Random Forest Classifier
 **Evaluation metrics:** Accuracy, Precision, Recall, F1 Score, Confusion Matrix
-
-![ML Prediction Results](images/ml_prediction_results.jpg)
 
 Prediction results were integrated back into Power BI, allowing stakeholders to view historical churn alongside customers with a high probability of future churn.
 
